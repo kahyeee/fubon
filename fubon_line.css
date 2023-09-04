@@ -1,5 +1,5 @@
 .navbar-brand img{
-    width: 10rem;
+    width: 12rem;
     height: auto;
 }
 .nav-link {
@@ -11,4 +11,8 @@
 }
 .navbar {
     border-bottom: 1px solid rgb(185, 185, 185);
+}
+.navbar-nav {
+    display: flex;
+    justify-content: center;
 }
