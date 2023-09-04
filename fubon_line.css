@@ -1,3 +1,6 @@
+* { 
+    font-family: 'Noto Sans', sans-serif;
+}
 .navbar-brand img{
     width: 12rem;
     height: auto;
@@ -15,4 +18,64 @@
 .navbar-nav {
     display: flex;
     justify-content: center;
+}
+.october img {
+    position: absolute;
+    top: 26rem;
+    left: 15rem;
+}
+.title {
+    font-weight: bold;
+    background: url("https://www.fubon.com/insurance/b2c/campaign/line/img/h2.png") no-repeat center;
+    padding: 2rem 10rem;
+}
+.blue-line img{
+    position: absolute;
+    top: 33rem;
+    left: 18.5rem;
+}
+.october .gift-title {
+    margin-left: 16rem;
+}
+.october .bg-1 {
+    background-image: url('pic10-1.png');
+    width: 5.5rem;
+    height: 6rem;
+    padding-top: 4.5rem;
+}
+.gift-title {
+    color: #fff;
+}
+.gift-1 .mark-finan-1 {
+    position: absolute;
+    top: 13rem;
+    left: 8rem;
+}
+.event-title {
+    margin: 0 5rem;
+    font-weight: bold;
+    width: 32rem;
+}
+.gift-2 .mark-finan-1 {
+    position: absolute;
+    top: 21.5rem;
+    left: 8rem;
+}
+.october .bg-2 {
+    background-image: url('pic10-2.png');
+    width: 5.5rem;
+    height: 6rem;
+    padding-top: 4.5rem;
+}
+.event-information {
+    margin: 0 5rem;
+    font-size: 13px;
+    color: rgb(123, 123, 123);
+}
+.event-information .item {
+    margin-left: 4.3rem;
+}
+.gift-illustrate-2 {
+    padding-top: 1rem;
+    border-top: 1px solid rgb(180, 180, 180);
 }
