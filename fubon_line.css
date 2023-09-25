@@ -79,3 +79,8 @@
     padding-top: 1rem;
     border-top: 1px solid rgb(180, 180, 180);
 }
+.november img {
+    position: absolute;
+    top: 58rem;
+    right: 15rem;
+}
